@@ -1,0 +1,40 @@
+body {
+	margin: 20px;
+	font-family: Georgia, serif;
+}
+
+header {
+	text-align: center;
+}
+
+hr {
+	height: 5px;
+	background-color: #6495ED;
+}
+
+img {
+	float: right;
+	height: 400px;
+	border-radius: 50%;
+}
+
+section {
+	margin: 40px;	
+}
+
+section hr {
+	height: 1px;
+	background-color: #00CED1;
+}
+
+footer ul {
+	text-align: center;
+}
+
+footer ul li {
+	display: inline-block;
+}
+
+header ul li {
+	display: inline-block;
+}
