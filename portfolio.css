@@ -10,6 +10,11 @@ header {
 
 h1 {
 	font-weight: 100;
+	font-size: 50px;
+}
+
+nav {
+	font-size: 30px;
 }
 
 hr {
@@ -34,6 +39,8 @@ h3 {
 
 ul li {
 	margin-left: 40px;
+	font-style: italic;
+	margin-top: 5px;
 }
 
 section img {
@@ -99,7 +106,7 @@ header ul {
 header a {
 	font-style: normal;
 	border-right: 1px solid white;
-	padding-right: 5px;
+	padding-right: 10px;
 }
 
 footer{
@@ -108,7 +115,7 @@ footer{
 
 footer p {
 	font-weight: 100;
-	font-size: 14px;
+	font-size: 20px;
 	font-style: italic;
 	color: white;
 }
