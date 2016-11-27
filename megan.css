@@ -2,7 +2,7 @@
 
 body {
 	margin: 20px;
-	font-family: Georgia, serif;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, serif;
 	background-image: url("images/background.jpg");
 }
 
@@ -16,13 +16,21 @@ hr {
 }
 
 img {
-	float: right;
-	height: 400px;
+	height: 200px;
 	border-radius: 50%;
+	margin: auto;
+	padding:5px;
 }
 
 section {
-	margin: 40px;	
+	margin: 40px;
+	background-color: rgba(255, 255, 255, 0.5);	
+}
+
+section h2,
+section p {
+	margin-left: 60px;
+	margin-right: 60px;
 }
 
 section hr {
@@ -37,6 +45,8 @@ footer ul {
 footer ul li {
 	display: inline-block;
 	font-style: oblique;
+	color: white;
+	margin: 20px;
 }
 
 header ul li {
@@ -47,4 +57,10 @@ header ul li {
 header a {
 	font-style: normal;
 }
+
+h2 {
+	color: #6F3C74;
+	font-style: italic;
+}
+
 
